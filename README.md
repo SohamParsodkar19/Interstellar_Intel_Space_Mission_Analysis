@@ -4,7 +4,7 @@
 
 # 🚀 INTERSTELLAR INTEL: Rocket Mission Analysis Dashboard
 
-![Dashboard Preview](./assets/dashboard_preview.png)
+![Dashboard Preview](./dashboard_img/Intersteallar Main Dashboard.png)
 
 Welcome to **Interstellar Intel**, a futuristic and dynamic space mission dashboard that visualizes decades of rocket launches, success trends, mission outcomes, and space agency performance — all in one high-tech interface built using **Power BI**.
 
