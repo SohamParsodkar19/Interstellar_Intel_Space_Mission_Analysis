@@ -55,7 +55,9 @@ This dashboard analyzes **460+ rocket missions across 60+ years**, extracting me
 │ ├── Interstellar Main Dashboard.png
 │ │── Interstellar Rocket Analysis.png
 │ 
-│ 
+│── 📁 rocket_img/ 
+│ ├── images of rockets (in .png format)
+│
 │
 ├── 📄 cleaned_missions.csv
 ├── 📄 Interstellar_Intel.pbix
