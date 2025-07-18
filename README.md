@@ -1,7 +1,3 @@
-# Interstellar_Intel_Space_Mission_Analysis
-
-### This Project is under Development
-
 # 🚀 INTERSTELLAR INTEL: Rocket Mission Analysis Dashboard
 
 ![Dashboard Screenshot](https://github.com/SohamParsodkar19/Interstellar_Intel_Space_Mission_Analysis/blob/main/dashboard_img/Interstellar%20Main%20Dashboard.png)
